@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "noEmit": true,
+        "allowJs": true,
+        "module": "commonjs",
+        "target": "ES2017",
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "strict": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitReturns": true,
+        "noEmitOnError": true,
+    },
+    "exclude": [
+        "node_modules",
+        "test"
+    ],
+    "include": [
+      "lib"
+    ]
+}
